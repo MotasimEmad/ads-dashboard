@@ -1,0 +1,10 @@
+[22-Apr-2022 17:30:42 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/cssix/public_html/public/index.php on line 49
+[22-Apr-2022 17:31:06 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/cssix/public_html/vendor/composer/platform_check.php on line 25
+[22-Apr-2022 17:34:55 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34. in /home/cssix/public_html/vendor/composer/platform_check.php on line 24
+[22-Apr-2022 17:36:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/cssix/public_html/vendor/composer/platform_check.php on line 25
+[05-May-2022 09:14:40 UTC] PHP Warning:  Use of undefined constant none - assumed 'none' (this will throw an Error in a future version of PHP) in /home/cssix/public_html/config/session.php on line 158
+[11-May-2022 21:22:27 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/cssix/public_html/resources/lang/ar/translation.php on line 33
+[11-May-2022 21:23:21 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/cssix/public_html/resources/lang/ar/translation.php on line 33
+[15-May-2022 16:56:11 UTC] PHP Fatal error:  Cannot declare class MyApp\Http\Middleware\HttpsProtocol, because the name is already in use in /home/cssix/public_html/app/Http/Middleware/HttpsProtocol.php on line 8
+[15-May-2022 16:57:30 UTC] PHP Fatal error:  Cannot declare class MyApp\Http\Middleware\HttpsProtocol, because the name is already in use in /home/cssix/public_html/app/Http/Middleware/HttpsProtocol.php on line 8
+[15-May-2022 16:57:53 UTC] PHP Fatal error:  Cannot declare class MyApp\Http\Middleware\HttpsProtocol, because the name is already in use in /home/cssix/public_html/app/Http/Middleware/HttpsProtocol.php on line 8
